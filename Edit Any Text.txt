@@ -1,0 +1,9 @@
+# <Dont Include the Parts in "<>"s!>
+
+
+<Fake Screenshot ENABLE> = 
+document.designMode = 'on'
+
+
+<Fake Screenshot DISABLE> = 
+document.designMode = 'off'
